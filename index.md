@@ -7,10 +7,7 @@ I am computational neuroscientist currently working at Vanderbilt University wit
 #### [Research](research.md)
 
 #### Education 
-I did my PhD in Mechanical Enginnering at university at Buffalo ([UB](www.buffalo.edu) ) and my Bachelor's degree in Aerospace Engineering at [Indian Institute of Technology at Kharagpur](www.iitkgp.ac.in) .
-
-
-
+I did my PhD in Mechanical Enginnering at university at Buffalo ([UB](https://www.buffalo.edu) ) and my Bachelor's degree in Aerospace Engineering at [Indian Institute of Technology at Kharagpur](http://www.iitkgp.ac.in).
 
 Outside of research, I enjoy playing soccer (AKA football), biking and reading. 
 #### [Contact](contact.md)

@@ -2,7 +2,7 @@
 
 ## Aditya Nanda
 
-I am computational neuroscientist currently working at Vanderbilt University with Mika Rubinov. We work on understandingand building models of brain data. I am also interested in artificial intelligence. Outside of research, I enjoy playing soccer (yes, football), biking, playing music, movies and yoga.  
+I am computational neuroscientist currently working at Vanderbilt University with Mika Rubinov. We work on understandingand building models of brain data. Outside of research, I enjoy playing soccer (AKA football), biking and playing music. 
 
 #### [Contact](contact.md)
 

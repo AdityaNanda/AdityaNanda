@@ -2,8 +2,17 @@
 
 ## Aditya Nanda
 
-I am computational neuroscientist currently working at Vanderbilt University with Mika Rubinov. We work on understandingand building models of brain data. Outside of research, I enjoy playing soccer (AKA football), biking and playing music. 
+I am computational neuroscientist currently working at Vanderbilt University with Mika Rubinov at [Rubinov Lab](www.rubinovlab.net) . I work on building neurobiologically plausible models of brain activity. 
 
+#### [Research](research.md)
+
+#### Education 
+I did my PhD in Mechanical Enginnering at university at Buffalo ([UB](www.buffalo.edu) ) and my Bachelor's degree in Aerospace Engineering at [Indian Institute of Technology at Kharagpur](www.iitkgp.ac.in) .
+
+
+
+
+Outside of research, I enjoy playing soccer (AKA football), biking and reading. 
 #### [Contact](contact.md)
 
 

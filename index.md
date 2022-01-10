@@ -2,7 +2,7 @@
 
 ## Aditya Nanda
 
-I am computational neuroscientist currently working at Vanderbilt University with Mika Rubinov at [Rubinov Lab](www.rubinovlab.net) . I work on building neurobiologically plausible models of brain activity. 
+I am computational neuroscientist currently working at Vanderbilt University with Mika Rubinov at rubinovlab . I work on building neurobiologically plausible models of brain activity. 
 
 #### [Research](research.md)
 

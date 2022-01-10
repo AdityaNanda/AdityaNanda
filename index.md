@@ -1,4 +1,4 @@
-<img src="vandy.jpg" width="150">
+<img src="vandy.jpg" width="200">
 
 ## Aditya Nanda
 

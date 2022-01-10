@@ -1,4 +1,4 @@
-### Building neurobiologically plausible models of brain activity
+## Building neurobiologically plausible models of brain activity
 
 <img src="brain.png" width="450">
 
@@ -6,7 +6,7 @@ Models of brain activity play a crucial role in computational/systems neuroscien
 
 Mathematically, the problem of generating multidimensional surrogate data with general constraints is a NP hard problem without any known polynomial-time solution. A majority of my work involves addressing this critical gap and we have developed algorithms that help us generate surrogate timeseries
 
-#### Nullspace method 
+### Nullspace method 
 <img src="nullspace.png" width="450">
 
 Nullspace method exploits tools from linear algebra to generate surrogate brain activity with preserved linear features:

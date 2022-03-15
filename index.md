@@ -6,7 +6,7 @@ I am computational neuroscientist currently working at Vanderbilt University wit
 
 #### [Research](research.md)
 
-#### Education 
+#### [Education](education.md) 
 I did my PhD in Mechanical Enginnering at university at Buffalo and my Bachelor's degree in Aerospace Engineering at iit. 
 
 Outside of research, I enjoy playing soccer (AKA football), biking and reading. 
